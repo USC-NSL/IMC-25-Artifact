@@ -1,0 +1,10 @@
+beautifulsoup4
+opencv-python
+publicsuffixlist
+paramiko
+scp
+esprima
+requests
+pandas
+diff_match_patch
+levenshtein

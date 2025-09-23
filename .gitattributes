@@ -1,0 +1,5 @@
+*.ipynb linguist-generated
+src_changed/** linguist-documentation
+tests/**/*.json linguist-vendored
+tests/**/*.html linguist-vendored
+tests/**/*.warc linguist-vendored

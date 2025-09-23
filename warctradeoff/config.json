@@ -1,0 +1,10 @@
+{
+    "host": "localhost:8080",
+    "host_proxy": "localhost:8079", 
+    "host_proxy_test": "localhost:8078",
+    "host_proxy_patch": "localhost:8078",
+    "collection": "static_replay",
+    "pywb_env": ". /path/to/your/pywb/env/bin/activate",
+    "chrome_data_dir": "/path/to/your/chrome/data/",
+    "archive_dir": "/path/to/your/archive/files/"
+}
