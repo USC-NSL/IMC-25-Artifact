@@ -6,7 +6,6 @@ This directory contains a **sampled version** of the full dataset used in our ex
 
 The dataset is divided into four splits. Each split can be downloaded from the following Azure Blob Storage links:
 
-(Links to be provided)
 - **Split 1:** [Download Link](https://imc25dataset.blob.core.windows.net/dataset/static-replay-files-0.tar.gz)
 - **Split 2:** [Download Link](https://imc25dataset.blob.core.windows.net/dataset/static-replay-files-1.tar.gz)
 - **Split 3:** [Download Link](https://imc25dataset.blob.core.windows.net/dataset/static-replay-files-2.tar.gz)
