@@ -1,6 +1,6 @@
 # IMC-25 Artifact: Toward Better Efficiency vs. Fidelity Tradeoffs in Web Archives
 
-This repository contains the source code, datasets, and experimental results for the IMC 2025 paper "Toward Better Efficiency vs. Fidelity Tradeoffs in Web Archives".
+This repository contains the source code, datasets, and experimental results for the IMC 2025 paper ["Toward Better Efficiency vs. Fidelity Tradeoffs in Web Archives"](https://doi.org/10.1145/3730567.3764507).
 
 ## Overview
 
